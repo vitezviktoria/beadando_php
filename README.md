@@ -1,1 +1,1 @@
-# beadando
+# Beadandó webprogramozás órára
